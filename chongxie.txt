@@ -1362,6 +1362,4 @@ https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/keepStyle.js
 # > 微信小程序 e生活
 ^https?:\/\/image4\.elife\.icbc\.com\.cn\/filepath\/elife\/2022\/05\/17\/09\/f737724e85c24b3cb056ff5d781a9139_s\.jpg url reject-200
 ^https?:\/\/image3\.elife\.icbc\.com\.cn\/filepath\/elife\/2022\/09\/16\/10\/0c577a75653e4f94a5c6ee2cccbc62ce_s\.JPG url reject-200
-# > 微信小程序去除广告直接查看隐藏内容或弹窗显示内容
-https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/Applet.conf
 # > 其他广告
