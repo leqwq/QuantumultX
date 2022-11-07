@@ -5,6 +5,7 @@
 
 # > 光大银行阳光惠生活
 host-keyword, talk.bz.getui.com, reject
+HOST-SUFFIX,wxsnsdythumb.wxs.qq.com, reject
 # > 快手
 # HOST-SUFFIX,yximgs.com, reject(这个会误杀头像和直播 已注释）
 HOST-SUFFIX,e.kuaishou.com, reject
