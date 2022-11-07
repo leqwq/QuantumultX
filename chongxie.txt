@@ -1337,9 +1337,9 @@ https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNot
 ^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/cardlist url script-response-body https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/weibo_json.js
 ^https?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*feed&a=trends url script-response-body https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/weibo_json.js
 # > 大众点评
-^https?:\/\/img\.meituan\.net\/dpmobile\/.*.(gif|jpg) url reject-200
+^https?:\/\/img\.meituan\.net\/dpmobile\/.*.(gif|jpg) url reject-200 https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/Applet.conf
 # > 麦当劳
-^https?:\/\/api\.mcd\.cn\/bff\/portal\/home\/splash url reject-200
+^https?:\/\/api\.mcd\.cn\/bff\/portal\/home\/splash url reject-200 https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Crack/qtmusic.js
 # > 肯德基
 ^https?:\/\/res\.kfc\.com\.cn\/CRM\/kfcad\/apphome5\/apphome url reject-200
 # > 必胜客
@@ -1364,4 +1364,3 @@ https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/keepStyle.js
 ^https?:\/\/image4\.elife\.icbc\.com\.cn\/filepath\/elife\/2022\/05\/17\/09\/f737724e85c24b3cb056ff5d781a9139_s\.jpg url reject-200
 ^https?:\/\/image3\.elife\.icbc\.com\.cn\/filepath\/elife\/2022\/09\/16\/10\/0c577a75653e4f94a5c6ee2cccbc62ce_s\.JPG url reject-200
 # > 其他广告
-https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/Applet.conf https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Crack/qtmusic.js
