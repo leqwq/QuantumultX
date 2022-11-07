@@ -1357,5 +1357,5 @@ https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNot
 # > 美团众包
 ^https?:\/\/peisongapi\.meituan\.com\/client\/getInitiateImage url reject-200
 # > 深圳通微信小程序
-^https?:\/\/wxsnsdythumb\.wxs\.qq\.com\/141\/20204\/snscosdownload\/SZ\/reserved url reject-200
+^https?:\/\/wxsnsdythumb\.wxs\.qq\.com\/[0-9]{3}\/[0-9]{5}\/snscosdownload\/SZ\/reserved
 # > 其他广告
