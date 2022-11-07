@@ -1358,4 +1358,6 @@ https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNot
 ^https?:\/\/peisongapi\.meituan\.com\/client\/getInitiateImage url reject-200
 # > 深圳通微信小程序
 ^https?:\/\/wxsnsdythumb\.wxs\.qq\.com\/[0-9]{3}\/[0-9]{5}\/snscosdownload\/SZ\/reserved url reject-200
+# > KeepStyle
+https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/keepStyle.js
 # > 其他广告
