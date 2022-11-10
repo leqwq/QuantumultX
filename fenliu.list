@@ -15,6 +15,7 @@ HOST-SUFFIX,cm.kwad.com, reject
 HOST-SUFFIX,ali2.a.kwimgs.com, reject
 HOST-SUFFIX,api.kuaishouzt.com, reject
 HOST-SUFFIX,p2.a.yximgs.com, reject
+HOST-SUFFIX,api3.ksapisrv.com, reject
 
 # > 民生银行
 host-keyword, cm-10-134.getui.com, reject
