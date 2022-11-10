@@ -12,9 +12,8 @@ HOST,js-ad.a.yximgs.com, reject
 HOST-SUFFIX,cm.downloader.commercial.kuaishou.com, reject
 HOST-SUFFIX,cm.ad.gifshow.com, reject
 HOST-SUFFIX,cm.kwad.com, reject
-
+HOST-SUFFIX,df.tanx.com, reject
 HOST-SUFFIX,tx2.a.kwimgs.com, reject
-
 # > 民生银行
 host-keyword, cm-10-134.getui.com, reject
 host-keyword, sdk.open.talk.getui.com, reject
