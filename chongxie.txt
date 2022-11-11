@@ -426,7 +426,6 @@ http:\/\/analytics\.163\.com\/ntes url reject
 ^https?:\/\/capis(-\d)?\.didapinche\.com\/ad\/ url reject
 ^https?:\/\/capis(-?\w*)?\.didapinche\.com\/publish\/api\/upgrade url reject-dict
 ^https?+:\/\/www\.didapinche\.com\/app\/adstat\/ url reject-200
-# > 叮咚买菜
 # > 哔哩哔哩屏蔽广告浮窗
 ^https?:\/\/api\.bilibili\.com\/pgc\/activity\/deliver\/material\/receive url reject-dict
 # > 哔哩哔哩屏蔽IP请求
