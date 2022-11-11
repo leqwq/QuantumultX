@@ -435,10 +435,6 @@ http:\/\/analytics\.163\.com\/ntes url reject
 ^https?:\/\/app\.bilibili\.com\/bilibili\.app\.interface\.v1\.Search\/Default url reject
 # > 哔哩哔哩屏蔽首页右上活动[卸载重装]
 ^https?:\/\/app\.bilibili\.com\/x\/resource\/top\/activity url reject-dict
-# > 哔哩哔哩应用开屏去广告
-^https://app.bilibili.com/x/v2/splash/show url reject-dict
-# > 哔哩哔哩Defaultword
-^https://app.bilibili.com/x/v2/search/defaultwords url reject-dict
 # > 哔哩哔哩Material_Ad
 ^https?:\/\/api\.bilibili\.com\/x\/vip\/ads\/material\/report url reject-dict
 # > 哔哩哔哩小卡片广告
