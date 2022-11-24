@@ -1,10 +1,12 @@
 # > /*  APP开屏广告拦截，APP启动广告拦截！
 # > 某些APP要清除缓存或者重新安装APP，拦截广告才会生效！  
-# > 更新时间  2022.11.10
+# > 更新时间  2022.11.24
 # > */  
 
 # > 光大银行阳光惠生活
 host-keyword, talk.bz.getui.com, reject
+# > 全民K歌
+HOST-SUFFIX,gdc.kg.qq.com, reject
 # > 快手
 # HOST-SUFFIX,yximgs.com, reject(这个会误杀头像和直播 已注释）
 HOST-SUFFIX,e.kuaishou.com, reject
